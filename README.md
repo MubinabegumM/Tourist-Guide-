@@ -1,0 +1,8 @@
+
+
+Title of the Project              :   PERSONALIZED TRAVEL GUIDE BOOKING AND              ASSISTANCE  PLATFORM
+
+
+ABSTRACT
+An application as a guide for tourists to visit the tourist sites. A digital platform called the Online Tourist Guide Booking System was created to link tourists with qualified tour guides, providing a smooth and customized travel experience. Users can search and reserve tour guides using this system according to availability and location. The objective of the Tourist Guide Management System is to modernize and streamline the traditional methods of managing tour guides and booking processes. This smart system replaces manual, paper-based methods, offering a faster, more reliable, and user-friendly solution. Tourists can easily search for and book qualified guides based on their preferences, such as location, language, and expertise. The system ensures that guides can efficiently manage their availability, accept or decline bookings, and track their schedules i Artificial Intelligence (AI), Skin Lesion Classification, Epithelium Detection, Deep Learning, Rule-Based Chatbot, Natural Language Processing (NLP), Skin Disease Awareness.n real- time. Additionally, the system allows travel agencies to monitor all operations, optimize guide allocation, and generate reports on bookings and customer satisfaction. By automating processes, improving communication, and reducing manual errors, the Tour Guide Booking System aims to enhance the overall tourism experience for both tourists and guides while increasing operational efficiency.
+Keywords: Location Tracking, Route Planning, Attraction Finder, Real-Time Navigation, Recommendation Engine, Geo-Tag Mapping, Travel Assistance
